@@ -8,7 +8,7 @@
 
 <template>
   <div class="block">
-    <h2 class="title">Home</h2>
+    <h2 class="title text-[40px] font-bold">Home</h2>
   </div>
 </template>
 
